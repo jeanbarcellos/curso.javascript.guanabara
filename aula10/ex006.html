@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>ex006 - Eventos DOM</title>
+    <style>
+        div#area {
+            background: green;
+            color: #FFFFFF;
+            width: 200px;
+            height: 200px;
+            line-height: 200px;
+            text-align: center;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="area" onclick="clicar()">
+        Interaja ...
+    </div>
+    <script>
+        function clicar() {
+            //alert('Clicado');
+            var a = document.getElementById('area')
+            a.innerText = "Clicou!"
+        }
+    </script>
+</body>
+
+</html>

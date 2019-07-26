@@ -1,0 +1,41 @@
+# Variáveis e Tipos Primitivos - Curso JavaScript #05
+
+Identificadores (Nome de variáveis):
+
+- Podem começar com um: letra, $ ou _
+- Não podemo começar com números
+- É possível usar letras ou números
+- É possível usar acentos e símbolos
+- Não podem conter espaços
+- Não podem er palavras reservadas: (ex: var, function, if  ...)
+
+
+Dicas:
+
+- Maiúsculas e minúsculas fazem diferença
+- Tente escolher nomes coerentes para as variáveis
+
+
+Primitivos:
+
+- number
+- string
+- boolean
+
+
+Data Types:
+
+- number
+    - Infinity
+    - NaN (Not a Number) valor numérico indefinido ou irrepresentável
+- string
+- boolean
+- null
+- undefined
+- object
+    - array
+    - null
+- function 
+
+typeof
+    retorna uma string indicando o tipo de um operando

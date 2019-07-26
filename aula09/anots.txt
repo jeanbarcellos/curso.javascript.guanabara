@@ -1,0 +1,58 @@
+Introdução ao DOM - Curso JavaScript #09
+
+Você sabe o que significa a sigla DOM?
+Sabe para que serve o Document Object Model? 
+Sabe como criar uma árvore DOM para o seu site? 
+Sabe como usar o JavaScript para manipular o DOM? 
+Sabe para que servem os elementos Parent e Child em um DOM? 
+Sabe utilizar os métodos getElementByTagName, getElementById, getElementByName, getElementByClassName, querySelector de acesso ao DOM no JavaScript?
+
+-------------------
+
+1. Adicionar extenção:
+Watch in Chrome
+2. Adicoinar extenção no chrome:
+https://chrome.google.com/webstore/detail/mmbnmofkiadlcapnmgnkheoadkpeefii
+Set Chrome your default browser
+
+
+Instalar Watch in Chrome
+1. Adicionar extenção:
+
+ctrt + shift + p
+
+---
+
+DOM - Acrônimo de Document Object Model - Modelo de objeto de documento
+
+Árvore DOM 
+
+window
+    location
+    history
+    document
+        html
+            head
+                meta
+                title
+            body
+                h1
+                p 
+                p
+                    strong
+                div
+
+
+
+Metodos de acesso aos elementos
+- por Marca
+    window.document.getElementByTagName()
+- por ID
+    window.document.getElementById()
+- por Nome
+    window.document.getElementByName()
+- por Classe
+    window.document.getElementByClassName()
+- por Seletor (css)
+    window.document.querySelector()
+

@@ -1,0 +1,53 @@
+Tratamento de dados - Curso JavaScript #06
+
+# Converter string -> number
+
+Number.parseInt()
+
+Number.parseFloat()
+
+
+# Maneira recente de fazer
+Number()
+Converter number -> string
+
+String()
+
+n.toString()
+
+
+# Formatando Strings
+var s = 'JavaScript'
+'Eu estou aprendendo s'  // não faz interpolação
+'Eu estou aprendendo ' + s // usa concatencação
+`Eu estou aprendendo ${s}` // usa template string - placerolder
+
+Ex: 
+# no Node
+nome = 'Gustavo'
+idade = 41
+nota = 5.2
+'O aluno ' + nome + ' com ' + idade + ' anos  tirou ' + nota
+`O aluno ${nome} com ${idade} tirou a nota ${nota}`
+
+
+var s. 'JavaScript
+s.length         // quantidade de caracteres tem 
+s.toUpperCase()  // tudo para maiúsculas
+s.toLowerCase()  // tudo para minúsculas
+
+
+
+# Formatar Números
+
+node
+> n1 = 1545.5
+
+> n1.toFixed(2)
+'1545.50'
+
+> n1.toFixed(2).replace('.',',')
+'1545,50'
+
+> n1.toLocaleString('pt-BR', {style:'currency', currency:'BRL'})
+'R$ 1,545.50'

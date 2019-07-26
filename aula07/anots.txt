@@ -1,0 +1,41 @@
+# Operadores (Parte1) - Curso JavaScript #07
+
+aritmétidos
+atribuição
+relacionais
+lógicos
+ternário
+
+
+Nesta aula: 
+aritmétidos e 
+atribuiçãoo
+
+
+## Aritmétidos
++   Soma
+-   Subtração
+*   Produto
+/   Divisão
+%   Resto da Divisão Inteira
+**  Potência
+
+Exemplo:
+> 5 + 2  = 7
+> 5 - 2  = 3
+> 5 * 2  = 10
+> 5 / 2  = 2.5
+> 5 % 2  = 1
+> 5 ** 2 = 25
+
+Ordem de PREcedência
+()
+**
+**  /   %
++   -
+
+
+
+# abrituição
+
+imagem

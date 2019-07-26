@@ -1,0 +1,26 @@
+Eventos DOM - Curso JavaScript #10
+
+Você já entendeu como funciona o DOM com JavaScript? 
+Sabe criar funções em JavaScript? 
+Consegue ligar uma função a um evento em um formulário HTML5 usando JavaScript? 
+Sabe como pegar valores dentro de caixas de texto e fazer cálculos com eles? 
+
+------------
+
+## EVENTOS
+
+Reference: 
+https://developer.mozilla.org/en-US/docs/Web/Events
+
+Exemplo eventos com o mouse:
+- mouseenter 
+- mousemove
+- mousedown
+- mouseup
+- click
+- mouseout
+
+
+--------
+
+# FUNÇÕES
