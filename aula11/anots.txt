@@ -1,0 +1,10 @@
+Condições (Parte 1) - Curso JavaScript #11
+
+Você sabe usar o comando if no JavaScript? 
+Sabe diferenciar condições simples e condições compostas? 
+Sabe como criar uma condição usando JavaScript? 
+Sabe como instalar e configurar a extensão Node Exec no Visual Studio Code?
+
+-------------- 
+
+Node Exec
