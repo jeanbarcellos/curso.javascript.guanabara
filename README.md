@@ -9,3 +9,9 @@ Aulas Playlist - https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCb
 - Google Chrome <i><a href="https://www.google.com/intl/pt-BR/chrome/" target="_blank">Download</a></i>
 - Visual Studio Code <i><a href="https://code.visualstudio.com/download" target="_blank">Download</a></i>
 - Node.js <i><a href="https://nodejs.org/en/download/" target="_blank">Download</a></i>
+
+### Extensões
+#### Watch in Chrome
+- Pesquisar no VS Code por 'Watch in Chrome' e adicionar
+- Adicionar no Chrome a extensão: VS Code Watch in Chrome - https://chrome.google.com/webstore/detail/mmbnmofkiadlcapnmgnkheoadkpeefii
+- Ctrl + Shift + P
